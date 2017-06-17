@@ -2,7 +2,7 @@
 
 function main() {
   $('.skillset').hide();
-  $('.skillset').fadeIn(10000);
+  $('.skillset').fadeIn(100);
 
   $('.content').hide();
 
